@@ -13,6 +13,7 @@
 		043018E527989F1E006836F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 043018E427989F1E006836F6 /* Assets.xcassets */; };
 		043018E827989F1E006836F6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 043018E727989F1E006836F6 /* Preview Assets.xcassets */; };
 		043018EB27989F1E006836F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 043018E927989F1E006836F6 /* LaunchScreen.storyboard */; };
+		043018F427989F9F006836F6 /* FavoriteModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 043018F327989F9F006836F6 /* FavoriteModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		043018E727989F1E006836F6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		043018EA27989F1E006836F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		043018EC27989F1E006836F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		043018F327989F9F006836F6 /* FavoriteModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				043018E927989F1E006836F6 /* LaunchScreen.storyboard */,
 				043018EC27989F1E006836F6 /* Info.plist */,
 				043018E627989F1E006836F6 /* Preview Content */,
+				043018F327989F9F006836F6 /* FavoriteModel.swift */,
 			);
 			path = FavoriteBook;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 				043018DF27989F1B006836F6 /* AppDelegate.swift in Sources */,
 				043018E127989F1B006836F6 /* SceneDelegate.swift in Sources */,
 				043018E327989F1B006836F6 /* ContentView.swift in Sources */,
+				043018F427989F9F006836F6 /* FavoriteModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
