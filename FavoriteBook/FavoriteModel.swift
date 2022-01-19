@@ -30,7 +30,7 @@ let ironMaiden = FavoriteElements(name: "Iron Maiden", imageName: "ironmaiden", 
 let favoriteBands = FavoriteModel(title: "Favorite Bands", elements: [metalica,megadeth,ironMaiden])
 
 //Movies;
-let pulpFiction = FavoriteElements(name: "Pulp Fiction", imageName: "pulpFiction", description: "No 1 Movie")
+let pulpFiction = FavoriteElements(name: "Pulp Fiction", imageName: "pulpfiction", description: "No 1 Movie")
 let theDarkKnight = FavoriteElements(name: "The Dark Knight", imageName: "thedarkknight", description: "No 2 Movie")
 let kilBill = FavoriteElements(name: "Kill Bill", imageName: "killbill", description: "No 3 Movie")
 
